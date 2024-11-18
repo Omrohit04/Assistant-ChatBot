@@ -13,7 +13,7 @@ Assistant Bot is a Python-based desktop virtual assistant developed using PyQt5,
 
 1. **Clone the repository**:
     ```bash
-    git clone https://github.com/yourusername/assistant-bot.git
+    git clone https://github.com/Omrohit04/assistant-bot.git
     cd assistant-bot
     ```
 
